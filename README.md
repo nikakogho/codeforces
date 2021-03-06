@@ -1,0 +1,1 @@
+# Basically, this is a collection of most of the solutions to problems I've attempted to solve on [codeforces](https://www.codeforces.com)
